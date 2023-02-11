@@ -49,18 +49,21 @@
 
 <h2 align="left"> 📊 GitHub Stats: <h2/><br/>
 
-<p align="left">
-  <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam-md&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="left" style="width: 45%" />
-<p/> 
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-md&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="right" style="width: 40%" />
-<p/>
-
+![](https://github-readme-stats.vercel.app/api?username=Shivam-md&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-md&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-md&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-md&theme=dark&hide_border=false)<br/>
+  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivam-md&theme=radical&no-frame=false&no-bg=false&margin-w=3)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 😂 Random Dev Meme
+<img src="https://i.redd.it/f7ibqp1dmiv51.gif" width="512px"/> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shivam-md&icon=0&color=0)](https://visitcount.itsvg.in)
