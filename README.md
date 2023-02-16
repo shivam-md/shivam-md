@@ -9,29 +9,35 @@
 ## 💻 Tech Stack:
 
 <p align="left">
+  <a href="https://flutter.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white alt=flutter style="margin-bottom: 5px;" /> </a>
+
   <a href="https://dart.dev/" target="_blank">
 <img src=https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white alt=dart style="margin-bottom: 5px;" /> </a>
 
-  <a href="https://www.java.com/en/" target="_blank">
+  <a href="https://www.java.com/" target="_blank">
 <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white alt=java style="margin-bottom: 5px;" /> </a>
+  
+  <a href="https://www.android.com/" target="_blank">
+<img src=https://img.shields.io/badge/Android-%23ED8B00.svg?style=for-the-badge&logo=android&logoColor=white alt=android sdk style="margin-bottom: 5px;" /> </a>  
 
   <a href="https://firebase.google.com/" target="_blank">
 <img src=https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white alt=firebasse style="margin-bottom: 5px;" /> </a>
-
-  <a href="https://flutter.dev/" target="_blank">
-<img src=https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white alt=flutter style="margin-bottom: 5px;" /> </a>
   
  <a href="https://pub.dev/packages/sqflite" target="_blank">
 <img src=https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white alt=sqflite style="margin-bottom: 5px;" /> </a>
-
-  <a href="https://www.canva.com/" target="_blank">
-<img src=https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white alt=canva style="margin-bottom: 5px;" /> </a>
+  
+  <a href="https://bloclibrary.dev/" target="_blank">
+<img src=https://img.shields.io/badge/BLoC-635985.svg?style=for-the-badge&logo=BLoC&logoColor=white alt=bloc style="margin-bottom: 5px;" /> </a>  
 
   <a href="https://www.figma.com/" target="_blank">
 <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white alt=figma style="margin-bottom: 5px;" /> </a>
 
   <a href="https://gradle.org/" target="_blank">
-<img src=https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white alt=gradle style="margin-bottom: 5px;" /> </a><p/><br/>
+<img src=https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white alt=gradle style="margin-bottom: 5px;" /> </a>
+
+  <a href="https://www.canva.com/" target="_blank">
+<img src=https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white alt=canva style="margin-bottom: 5px;" /> </a><p/><br/>
 
 
   
